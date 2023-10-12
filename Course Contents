@@ -1,0 +1,17 @@
+This course consists of four modules:
+Introduction and Regression, Classification, Clustering, and the Final Project.
+Each module comprises videos with hands-on labs to apply what I have learned.
+The hands-on labs use Jupyter Lab, which is hosted on Skills Network Labs and uses the Python programming language and various Python libraries like Pandas, Numpy, and Scikit-Learn. 
+have explore different machine learning algorithms in this course and work with a variety of data sets to help me apply machine learning.
+With linear regression, I work with an automobile data set to estimate the CO2 emission of cars using various features,and then predict the CO2 emissions of cars that haven’t even been produced yet.
+In regression trees, I have worked with real estate data to predict the price of houses. 
+In logistic regression, I have worked with customer data for telecommunication companies and see how machine learning is used to predict customer loyalty.
+With K-nearest neighbors I have used telecommunication customer data to classify customers.
+For support vector machines, I have classified human cell samples as benign or malignant. 
+In multiclass prediction, I have worked with the popular iris data set to classify types of flowers.
+With decision trees, you will build a model to determine which drugs to prescribe to patients. 
+And finally, with K-means, I have learned to segment a customer data set into groups of individuals with similar characteristics.
+In the last module, I have complete the final project where I have used many of the classification algorithms to predict rain in Australia.
+After completing this course, you will be able to explain, compare, and contrast various machine learning topics and 
+concepts like supervised learning, unsupervised learning, classification, regression, and clustering. You will also be able to describe how the various machine learning algorithms work. 
+And finally, I have learn how to apply these machine learning algorithms in Python using various Python libraries.

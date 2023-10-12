@@ -1,5 +1,5 @@
 # IBM-AI-Engineering
-I have registered myself for this professional Certificate on #Coursera have six courses in total. I have completed some of the courses and still my journey is continued. 
+I am pursuing this professional Certificate on #Coursera which has six courses in total. I have completed some of the courses and still my journey is continued. 
 
 # Certificate Objectives:
 1. Describe machine learning, deep learning, neural networks, and ML algorithms like classification, regression, clustering, and dimensional reduction 
@@ -21,3 +21,5 @@ I have registered myself for this professional Certificate on #Coursera have six
 6. AI Capstone Project with Deep Learning
 
 https://www.coursera.org/professional-certificates/ai-engineer#courses
+
+## The labs of each course are uploaded to branches named with the course name.
